@@ -1,2 +1,2 @@
 # Bill-split-Calculator
-This is Bill Split Calculator which split can split bill among as much as people want !
+This is Bill Split Calculator which can split bill amount among people 
